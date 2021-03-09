@@ -1,0 +1,6 @@
+
+Graph statistics:
+We have 100 nodes.
+We have 409.0 in-edges.
+Average degree: 4.0
+Number of isolated nodes: 0
